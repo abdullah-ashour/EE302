@@ -1,4 +1,5 @@
 import sys
+ملف خربانن وخربته للتعديل
 import sqlite3
 from datetime import datetime
 from PyQt5.QtWidgets import (
